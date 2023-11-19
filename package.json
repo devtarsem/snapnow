@@ -1,6 +1,6 @@
 {
   "name": "snapnow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "image processing for basic web apps",
   "main": "index.js",
   "scripts": {
